@@ -5208,5 +5208,13 @@ Shared.Vehicles = {
         ['hash'] = `springer`,
         ['shop'] = 'bikedealer',
 	},
+	['gtsr'] = {
+        ['name'] = 'Holden Gtsr',
+        ['brand'] = 'Holden',
+        ['model'] = 'gtsr',
+        ['price'] = 475000,
+        ['category'] = 'import',
+        ['hash'] = `gtsr`,
+        ['shop'] = 'luxury',
 
 }
