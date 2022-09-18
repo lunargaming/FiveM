@@ -4993,7 +4993,7 @@ Shared.Vehicles = {
         ['shop'] = 'pdm',
     },
 	['dragoon'] = {
-        ['name'] = 'Test',
+        ['name'] = 'dragoon',
         ['brand'] = 'BF',
         ['model'] = 'dragoon',
         ['price'] = 65000,
@@ -5002,7 +5002,7 @@ Shared.Vehicles = {
         ['shop'] = 'bikedealer',
 	},
 	['baikal'] = {
-        ['name'] = 'Test',
+        ['name'] = 'baikal',
         ['brand'] = 'BF',
         ['model'] = 'baikal',
         ['price'] = 101500,
@@ -5011,7 +5011,7 @@ Shared.Vehicles = {
         ['shop'] = 'bikedealer',
 	},
 	['beater'] = {
-        ['name'] = 'Test',
+        ['name'] = 'beater',
         ['brand'] = 'BF',
         ['model'] = 'beater',
         ['price'] = 65000,
@@ -5020,7 +5020,7 @@ Shared.Vehicles = {
         ['shop'] = 'bikedealer',
 	},
 	['blackhorse'] = {
-        ['name'] = 'Test',
+        ['name'] = 'blackhorse',
         ['brand'] = 'BF',
         ['model'] = 'blackhorse',
         ['price'] = 65000,
@@ -5029,7 +5029,7 @@ Shared.Vehicles = {
         ['shop'] = 'bikedealer',
 	},
 	['born'] = {
-        ['name'] = 'Test',
+        ['name'] = 'born',
         ['brand'] = 'BF',
         ['model'] = 'born',
         ['price'] = 65000,
@@ -5038,7 +5038,7 @@ Shared.Vehicles = {
         ['shop'] = 'bikedealer',
 	},
 	['chingon'] = {
-        ['name'] = 'Test',
+        ['name'] = 'chingon',
         ['brand'] = 'BF',
         ['model'] = 'chingon',
         ['price'] = 65000,
@@ -5047,7 +5047,7 @@ Shared.Vehicles = {
         ['shop'] = 'bikedealer',
 	},
 	['chingonbb'] = {
-        ['name'] = 'Test',
+        ['name'] = 'chingonbb',
         ['brand'] = 'BF',
         ['model'] = 'chingonbb',
         ['price'] = 65000,
@@ -5056,7 +5056,7 @@ Shared.Vehicles = {
         ['shop'] = 'bikedealer',
 	},
 	['corredor'] = {
-        ['name'] = 'Test',
+        ['name'] = 'corredor',
         ['brand'] = 'BF',
         ['model'] = 'corredor',
         ['price'] = 65000,
@@ -5065,7 +5065,7 @@ Shared.Vehicles = {
         ['shop'] = 'bikedealer',
 	},
 	['duke'] = {
-        ['name'] = 'Test',
+        ['name'] = 'duke',
         ['brand'] = 'BF',
         ['model'] = 'duke',
         ['price'] = 65000,
@@ -5074,7 +5074,7 @@ Shared.Vehicles = {
         ['shop'] = 'bikedealer',
 	},
 	['hamster'] = {
-        ['name'] = 'Test',
+        ['name'] = 'hamster',
         ['brand'] = 'BF',
         ['model'] = 'hamster',
         ['price'] = 65000,
@@ -5083,7 +5083,7 @@ Shared.Vehicles = {
         ['shop'] = 'bikedealer',
 	},
 	['happy'] = {
-        ['name'] = 'Test',
+        ['name'] = 'happy',
         ['brand'] = 'BF',
         ['model'] = 'happy',
         ['price'] = 65000,
@@ -5092,7 +5092,7 @@ Shared.Vehicles = {
         ['shop'] = 'bikedealer',
 	},
 	['hussar'] = {
-        ['name'] = 'Test',
+        ['name'] = 'hussar',
         ['brand'] = 'BF',
         ['model'] = 'hussar',
         ['price'] = 65000,
@@ -5101,7 +5101,7 @@ Shared.Vehicles = {
         ['shop'] = 'bikedealer',
 	},
 	['hvrod'] = {
-        ['name'] = 'Test',
+        ['name'] = 'hvrod',
         ['brand'] = 'BF',
         ['model'] = 'hvrod',
         ['price'] = 65000,
@@ -5110,7 +5110,7 @@ Shared.Vehicles = {
         ['shop'] = 'bikedealer',
 	},
 	['indian'] = {
-        ['name'] = 'Test',
+        ['name'] = 'indian',
         ['brand'] = 'BF',
         ['model'] = 'indian',
         ['price'] = 65000,
@@ -5119,7 +5119,7 @@ Shared.Vehicles = {
         ['shop'] = 'bikedealer',
 	},
 	['lpchopper'] = {
-        ['name'] = 'Test',
+        ['name'] = 'lpchopper',
         ['brand'] = 'BF',
         ['model'] = 'lpchopper',
         ['price'] = 65000,
@@ -5128,7 +5128,7 @@ Shared.Vehicles = {
         ['shop'] = 'bikedealer',
 	},
 	['lpchopper2'] = {
-        ['name'] = 'Test',
+        ['name'] = 'lpchopper2',
         ['brand'] = 'BF',
         ['model'] = 'lpchopper2',
         ['price'] = 65000,
@@ -5137,7 +5137,7 @@ Shared.Vehicles = {
         ['shop'] = 'bikedealer',
 	},
 	['okinawa'] = {
-        ['name'] = 'Test',
+        ['name'] = 'okinawa',
         ['brand'] = 'BF',
         ['model'] = 'okinawa',
         ['price'] = 65000,
@@ -5146,7 +5146,7 @@ Shared.Vehicles = {
         ['shop'] = 'bikedealer',
 	},
 	['oscurecer'] = {
-        ['name'] = 'Test',
+        ['name'] = 'oscurecer',
         ['brand'] = 'BF',
         ['model'] = 'oscurecer',
         ['price'] = 65000,
@@ -5155,7 +5155,7 @@ Shared.Vehicles = {
         ['shop'] = 'bikedealer',
 	},
 	['razor'] = {
-        ['name'] = 'Test',
+        ['name'] = 'razor',
         ['brand'] = 'BF',
         ['model'] = 'razor',
         ['price'] = 65000,
@@ -5164,7 +5164,7 @@ Shared.Vehicles = {
         ['shop'] = 'bikedealer',
 	},
 	['rk2019'] = {
-        ['name'] = 'Test',
+        ['name'] = 'rk2019',
         ['brand'] = 'BF',
         ['model'] = 'rk2019',
         ['price'] = 65000,
@@ -5173,7 +5173,7 @@ Shared.Vehicles = {
         ['shop'] = 'bikedealer',
 	},
 	['rk2019l'] = {
-        ['name'] = 'Test',
+        ['name'] = 'rk2019l',
         ['brand'] = 'BF',
         ['model'] = 'rk2019l',
         ['price'] = 65000,
@@ -5182,7 +5182,7 @@ Shared.Vehicles = {
         ['shop'] = 'bikedealer',
 	},
 	['roadbag'] = {
-        ['name'] = 'Test',
+        ['name'] = 'roadbag',
         ['brand'] = 'BF',
         ['model'] = 'roadbag',
         ['price'] = 65000,
@@ -5191,7 +5191,7 @@ Shared.Vehicles = {
         ['shop'] = 'bikedealer',
 	},
 	['soft93'] = {
-        ['name'] = 'Test',
+        ['name'] = 'soft93',
         ['brand'] = 'BF',
         ['model'] = 'soft93',
         ['price'] = 65000,
@@ -5200,7 +5200,7 @@ Shared.Vehicles = {
         ['shop'] = 'bikedealer',
 	},
 	['springer'] = {
-        ['name'] = 'Test',
+        ['name'] = 'springer',
         ['brand'] = 'BF',
         ['model'] = 'springer',
         ['price'] = 65000,
