@@ -5216,5 +5216,5 @@ Shared.Vehicles = {
         ['category'] = 'import',
         ['hash'] = `gtsr`,
         ['shop'] = 'lux',
-
+	}
 }
