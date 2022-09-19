@@ -4585,7 +4585,7 @@ Shared.Vehicles = {
         ['price'] = 38000,
         ['category'] = 'import',
         ['hash'] = `rmodbiposto`,
-        ['shop'] = 'pdm',
+        ['shop'] = 'lux',
     },
 	['rmodamggt'] = {
         ['name'] = 'Mercedes-AMG GT BS',
@@ -4594,7 +4594,7 @@ Shared.Vehicles = {
         ['price'] = 375000,
         ['category'] = 'import',
         ['hash'] = `rmodamggt`,
-        ['shop'] = 'pdm',
+        ['shop'] = 'lux',
     },
 	['rmodatlantic'] = {
         ['name'] = 'Bugatti Atlantic',
@@ -4603,7 +4603,7 @@ Shared.Vehicles = {
         ['price'] = 12400000,
         ['category'] = 'import',
         ['hash'] = `rmodatlantic`,
-        ['shop'] = 'pdm',
+        ['shop'] = 'lux',
     },
 	['rmodbentley1'] = {
         ['name'] = 'Bentley GT Convertible 1',
@@ -4612,7 +4612,7 @@ Shared.Vehicles = {
         ['price'] = 38000,
         ['category'] = 'import',
         ['hash'] = `rmodbentley1`,
-        ['shop'] = 'pdm',
+        ['shop'] = 'lux',
     },
 	['rmodbacalar'] = {
         ['name'] = 'Bentley Bacalar',
@@ -4621,7 +4621,7 @@ Shared.Vehicles = {
         ['price'] = 1900000,
         ['category'] = 'import',
         ['hash'] = `rmodbacalar`,
-        ['shop'] = 'pdm',
+        ['shop'] = 'lux',
     },
 	['rmodbentayga'] = {
         ['name'] = 'Bentley Bentayga',
@@ -4630,7 +4630,7 @@ Shared.Vehicles = {
         ['price'] = 395000,
         ['category'] = 'import',
         ['hash'] = `rmodbentayga`,
-        ['shop'] = 'pdm',
+        ['shop'] = 'lux',
     },
 	['rmodbentleygt'] = {
         ['name'] = 'Bentley Continental GT',
@@ -4639,7 +4639,7 @@ Shared.Vehicles = {
         ['price'] = 459000,
         ['category'] = 'import',
         ['hash'] = `rmodbentleygt`,
-        ['shop'] = 'pdm',
+        ['shop'] = 'lux',
     },
 	['rmodbolide'] = {
         ['name'] = 'Bugatti Bolide',
@@ -4648,7 +4648,7 @@ Shared.Vehicles = {
         ['price'] = 8700000,
         ['category'] = 'import',
         ['hash'] = `rmodbolide`,
-        ['shop'] = 'pdm',
+        ['shop'] = 'lux',
     },
 	['rmodgtr50'] = {
         ['name'] = 'Nissan GT-R 50',
@@ -4657,7 +4657,7 @@ Shared.Vehicles = {
         ['price'] = 990000,
         ['category'] = 'import',
         ['hash'] = `rmodgtr50`,
-        ['shop'] = 'pdm',
+        ['shop'] = 'lux',
     },
 	['rmodrs6'] = {
         ['name'] = 'Audi RS6 C8 2020',
@@ -4666,7 +4666,7 @@ Shared.Vehicles = {
         ['price'] = 463000,
         ['category'] = 'import',
         ['hash'] = `rmodrs6`,
-        ['shop'] = 'pdm',
+        ['shop'] = 'lux',
     },
 	['rmodz06'] = {
         ['name'] = 'Corvette C7 Z06',
@@ -4675,7 +4675,7 @@ Shared.Vehicles = {
         ['price'] = 184000,
         ['category'] = 'import',
         ['hash'] = `rmodz06`,
-        ['shop'] = 'pdm',
+        ['shop'] = 'lux',
     },
 	['rmodbugatti'] = {
         ['name'] = 'Bugatti La Voiture Noire',
@@ -4684,7 +4684,7 @@ Shared.Vehicles = {
         ['price'] = 19000000,
         ['category'] = 'import',
         ['hash'] = `rmodbugatti`,
-        ['shop'] = 'pdm',
+        ['shop'] = 'lux',
     },
 	['rmodchiron300'] = {
         ['name'] = 'Bugatti Chiron Super Sport 300+',
@@ -4693,7 +4693,7 @@ Shared.Vehicles = {
         ['price'] = 6800000,
         ['category'] = 'import',
         ['hash'] = `rmodchiron300`,
-        ['shop'] = 'pdm',
+        ['shop'] = 'lux',
     },
 	['rmodf12tdf'] = {
         ['name'] = 'Ferrari F12 TDF',
@@ -4702,7 +4702,7 @@ Shared.Vehicles = {
         ['price'] = 721000,
         ['category'] = 'import',
         ['hash'] = `rmodf12tdf`,
-        ['shop'] = 'pdm',
+        ['shop'] = 'lux',
     },
 	['rmodlp670'] = {
         ['name'] = 'Lamborghini Murciélago LB',
@@ -4711,7 +4711,7 @@ Shared.Vehicles = {
         ['price'] = 554000,
         ['category'] = 'import',
         ['hash'] = `rmodlp670`,
-        ['shop'] = 'pdm',
+        ['shop'] = 'lux',
     },
 	['rmodr8v10'] = {
         ['name'] = 'Audi R8 V10 Plus',
@@ -4720,7 +4720,7 @@ Shared.Vehicles = {
         ['price'] = 548000,
         ['category'] = 'import',
         ['hash'] = `rmodr8v10`,
-        ['shop'] = 'pdm',
+        ['shop'] = 'lux',
     },
 	['rmodc63amg'] = {
         ['name'] = 'Mercedes-AMG C63S Coupe',
@@ -4729,7 +4729,7 @@ Shared.Vehicles = {
         ['price'] = 226000,
         ['category'] = 'import',
         ['hash'] = `rmodc63amg`,
-        ['shop'] = 'pdm',
+        ['shop'] = 'lux',
     },
 	['rmodctsv'] = {
         ['name'] = 'Cadillac CTS-V',
@@ -4738,7 +4738,7 @@ Shared.Vehicles = {
         ['price'] = 110000,
         ['category'] = 'import',
         ['hash'] = `rmodctsv`,
-        ['shop'] = 'pdm',
+        ['shop'] = 'lux',
     },
 	['rmodf40'] = {
         ['name'] = 'Ferrari F40 Competizione',
@@ -4747,7 +4747,7 @@ Shared.Vehicles = {
         ['price'] = 1470000,
         ['category'] = 'import',
         ['hash'] = `rmodf40`,
-        ['shop'] = 'pdm',
+        ['shop'] = 'lux',
     },
 	['rmodm5e34'] = {
         ['name'] = 'BMW M5 E34',
@@ -4756,7 +4756,7 @@ Shared.Vehicles = {
         ['price'] = 45000,
         ['category'] = 'import',
         ['hash'] = `rmodm5e34`,
-        ['shop'] = 'pdm',
+        ['shop'] = 'lux',
     },
 	['rmodzl1'] = {
         ['name'] = 'Chevrolet Camaro ZL1',
@@ -4765,7 +4765,7 @@ Shared.Vehicles = {
         ['price'] = 113000,
         ['category'] = 'import',
         ['hash'] = `rmodzl1`,
-        ['shop'] = 'pdm',
+        ['shop'] = 'lux',
     },
 	['rmodg65'] = {
         ['name'] = 'Mercedes-Benz G65 AMG',
@@ -4774,7 +4774,7 @@ Shared.Vehicles = {
         ['price'] = 322000,
         ['category'] = 'import',
         ['hash'] = `rmodg65`,
-        ['shop'] = 'pdm',
+        ['shop'] = 'lux',
     },
 	['rmodm8gte'] = {
         ['name'] = 'BMW M8 GTE',
@@ -4783,7 +4783,7 @@ Shared.Vehicles = {
         ['price'] = 352000,
         ['category'] = 'import',
         ['hash'] = `rmodm8gte`,
-        ['shop'] = 'pdm',
+        ['shop'] = 'lux',
     },
 	['rmodbmwm8'] = {
         ['name'] = 'BMW M8 Competition',
@@ -4792,7 +4792,7 @@ Shared.Vehicles = {
         ['price'] = 162000,
         ['category'] = 'import',
         ['hash'] = `rmodbmwm8`,
-        ['shop'] = 'pdm',
+        ['shop'] = 'lux',
     },
 	['rmodmartin'] = {
         ['name'] = 'Aston Martin DBS Superleggera',
@@ -4801,7 +4801,7 @@ Shared.Vehicles = {
         ['price'] = 636000,
         ['category'] = 'import',
         ['hash'] = `rmodmartin`,
-        ['shop'] = 'pdm',
+        ['shop'] = 'lux',
     },
 	['rmodrs5'] = {
         ['name'] = 'Audi RS5 Coupe',
@@ -4810,7 +4810,7 @@ Shared.Vehicles = {
         ['price'] = 357000,
         ['category'] = 'import',
         ['hash'] = `rmodrs5`,
-        ['shop'] = 'pdm',
+        ['shop'] = 'lux',
     },
 	['rmodskyline34'] = {
         ['name'] = 'Nissan Skyline BNR34 C-WEST',
@@ -4819,7 +4819,7 @@ Shared.Vehicles = {
         ['price'] = 870000,
         ['category'] = 'import',
         ['hash'] = `rmodskyline34`,
-        ['shop'] = 'pdm',
+        ['shop'] = 'lux',
     },
 	['q820'] = {
         ['name'] = 'Audi Q820',
@@ -4828,7 +4828,7 @@ Shared.Vehicles = {
         ['price'] = 126000,
         ['category'] = 'import',
         ['hash'] = `q820`,
-        ['shop'] = 'pdm',
+        ['shop'] = 'lux',
     },
 	['rs72020'] = {
         ['name'] = 'Audi RS7 2020',
@@ -4837,7 +4837,7 @@ Shared.Vehicles = {
         ['price'] = 357000,
         ['category'] = 'import',
         ['hash'] = `rs72020`,
-        ['shop'] = 'pdm',
+        ['shop'] = 'lux',
     },
 	['sq72016'] = {
         ['name'] = 'Audi SQ7 2016',
@@ -4846,7 +4846,7 @@ Shared.Vehicles = {
         ['price'] = 94000,
         ['category'] = 'import',
         ['hash'] = `sq72016`,
-        ['shop'] = 'pdm',
+        ['shop'] = 'lux',
     },
 	['ttrs'] = {
         ['name'] = 'Audi TT RS',
@@ -4855,7 +4855,7 @@ Shared.Vehicles = {
         ['price'] = 141000,
         ['category'] = 'import',
         ['hash'] = `ttrs`,
-        ['shop'] = 'pdm',
+        ['shop'] = 'lux',
     },
 	['i8'] = {
         ['name'] = 'BMW i8 Coupe',
@@ -4864,7 +4864,7 @@ Shared.Vehicles = {
         ['price'] = 222000,
         ['category'] = 'import',
         ['hash'] = `i8`,
-        ['shop'] = 'pdm',
+        ['shop'] = 'lux',
     },
 	['m2'] = {
         ['name'] = 'BMW M2 Competition',
@@ -4873,7 +4873,7 @@ Shared.Vehicles = {
         ['price'] = 99000,
         ['category'] = 'import',
         ['hash'] = `m2`,
-        ['shop'] = 'pdm',
+        ['shop'] = 'lux',
     },
 	['m3e36'] = {
         ['name'] = 'BMW M3 E36',
@@ -4882,7 +4882,7 @@ Shared.Vehicles = {
         ['price'] = 56000,
         ['category'] = 'import',
         ['hash'] = `m3e36`,
-        ['shop'] = 'pdm',
+        ['shop'] = 'lux',
     },
 	['m3f80'] = {
         ['name'] = 'BMW M3 F80',
@@ -4891,7 +4891,7 @@ Shared.Vehicles = {
         ['price'] = 85000,
         ['category'] = 'import',
         ['hash'] = `m3f80`,
-        ['shop'] = 'pdm',
+        ['shop'] = 'lux',
     },
 	['m3e92'] = {
         ['name'] = 'BMW M3 E92',
@@ -4900,7 +4900,7 @@ Shared.Vehicles = {
         ['price'] = 45000,
         ['category'] = 'import',
         ['hash'] = `m3e92`,
-        ['shop'] = 'pdm',
+        ['shop'] = 'lux',
     },
 	['m6f13'] = {
         ['name'] = 'BMW M6 F13',
@@ -4909,7 +4909,7 @@ Shared.Vehicles = {
         ['price'] = 109000,
         ['category'] = 'import',
         ['hash'] = `m6f13`,
-        ['shop'] = 'pdm',
+        ['shop'] = 'lux',
     },
 	['760li04'] = {
         ['name'] = 'BMW 760Li 2004',
@@ -4918,7 +4918,7 @@ Shared.Vehicles = {
         ['price'] = 45000,
         ['category'] = 'import',
         ['hash'] = `760li04`,
-        ['shop'] = 'pdm',
+        ['shop'] = 'lux',
     },
 	['bmci'] = {
         ['name'] = 'BMW M5 F90 2018',
@@ -4927,7 +4927,7 @@ Shared.Vehicles = {
         ['price'] = 112000,
         ['category'] = 'import',
         ['hash'] = `bmci`,
-        ['shop'] = 'pdm',
+        ['shop'] = 'lux',
     },
 	['z419'] = {
         ['name'] = 'BMW Z4 2019',
@@ -4936,7 +4936,7 @@ Shared.Vehicles = {
         ['price'] = 64000,
         ['category'] = 'import',
         ['hash'] = `z419`,
-        ['shop'] = 'pdm',
+        ['shop'] = 'lux',
     },
 	['bdivo'] = {
         ['name'] = 'Bugatti Divo',
@@ -4945,7 +4945,7 @@ Shared.Vehicles = {
         ['price'] = 7200000,
         ['category'] = 'import',
         ['hash'] = `bdivo`,
-        ['shop'] = 'pdm',
+        ['shop'] = 'lux',
     },
 	['bugatticentodieci'] = {
         ['name'] = 'Bugatti Centodieci',
@@ -4954,7 +4954,7 @@ Shared.Vehicles = {
         ['price'] = 10200000,
         ['category'] = 'import',
         ['hash'] = `bugatticentodieci`,
-        ['shop'] = 'pdm',
+        ['shop'] = 'lux',
     },
 	['bugatti'] = {
         ['name'] = 'Bugatti Veyron',
@@ -4963,7 +4963,7 @@ Shared.Vehicles = {
         ['price'] = 5500000,
         ['category'] = 'import',
         ['hash'] = `bugatti`,
-        ['shop'] = 'pdm',
+        ['shop'] = 'lux',
     },
 	['camrs17'] = {
         ['name'] = 'Chevrolet Camaro RS 2017',
@@ -4972,7 +4972,7 @@ Shared.Vehicles = {
         ['price'] = 87000,
         ['category'] = 'import',
         ['hash'] = `camrs17`,
-        ['shop'] = 'pdm',
+        ['shop'] = 'lux',
     },
 	['tahoe21'] = {
         ['name'] = 'Chevrolet Tahoe 2021',
@@ -4981,7 +4981,7 @@ Shared.Vehicles = {
         ['price'] = 79000,
         ['category'] = 'import',
         ['hash'] = `tahoe21`,
-        ['shop'] = 'pdm',
+        ['shop'] = 'lux',
     },
 	['c7'] = {
         ['name'] = 'Corvette C7',
@@ -4990,7 +4990,7 @@ Shared.Vehicles = {
         ['price'] = 82000,
         ['category'] = 'import',
         ['hash'] = `c7`,
-        ['shop'] = 'pdm',
+        ['shop'] = 'lux',
     },
 	['dragoon'] = {
         ['name'] = 'dragoon',
@@ -5215,6 +5215,6 @@ Shared.Vehicles = {
         ['price'] = 475000,
         ['category'] = 'import',
         ['hash'] = `gtsr`,
-        ['shop'] = 'luxury',
+        ['shop'] = 'lux',
 
 }
