@@ -5213,8 +5213,8 @@ Shared.Vehicles = {
         ['brand'] = 'Holden',
         ['model'] = 'gtsr',
         ['price'] = 475000,
-        ['category'] = 'import',
+        ['category'] = 'other',
         ['hash'] = `gtsr`,
-        ['shop'] = 'lux',
+        ['shop'] = 'luxury',
 	}
 }
