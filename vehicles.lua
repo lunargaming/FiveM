@@ -5217,4 +5217,23 @@ Shared.Vehicles = {
         ['hash'] = `gtsr`,
         ['shop'] = 'luxury',
 	}
+	['amgone'] = {
+        ['name'] = 'Mercedes Amg One',
+        ['brand'] = 'Mercedes',
+        ['model'] = 'amgone',
+        ['price'] = 3760000,
+        ['category'] = 'other',
+        ['hash'] = `amgone`,
+        ['shop'] = 'luxury',
+	}
+	['lp770'] = {
+        ['name'] = 'Lamborghini Centenario',
+        ['brand'] = 'Lamborghini',
+        ['model'] = 'lp770',
+        ['price'] = 3230000,
+        ['category'] = 'other',
+        ['hash'] = `lp770`,
+        ['shop'] = 'luxury',
+	}
+	
 }
