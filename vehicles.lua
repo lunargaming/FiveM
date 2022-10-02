@@ -3087,15 +3087,6 @@ Shared.Vehicles = {
 		['hash'] = `cheetah2`,
 		['shop'] = 'luxury',
 	},
-	['deluxo'] = {
-		['name'] = 'Deluxo',
-		['brand'] = 'Imponte',
-		['model'] = 'deluxo',
-		['price'] = 55000,
-		['category'] = 'sportsclassics',
-		['hash'] = `deluxo`,
-		['shop'] = 'pdm',
-	},
 	['dynasty'] = {							--DLC
 		['name'] = 'Dynasty',
 		['brand'] = 'Weeny',
