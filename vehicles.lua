@@ -1508,15 +1508,6 @@ Shared.Vehicles = {
 		['hash'] = `blazer4`,
 		['shop'] = 'pdm',
 	},
-	['blazer5'] = {
-		['name'] = 'Blazer Aqua',
-		['brand'] = 'Nagasaki',
-		['model'] = 'blazer5',
-		['price'] = 40000,
-		['category'] = 'offroad',
-		['hash'] = `blazer5`,
-		['shop'] = 'pdm',
-	},
 	['brawler'] = {
 		['name'] = 'Brawler',
 		['brand'] = 'Annis',
